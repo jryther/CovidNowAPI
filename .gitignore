@@ -1,0 +1,9 @@
+APIFile.ini
+
+# intellij configs
+.idea/
+
+# Virtual environment
+
+venv/
+
